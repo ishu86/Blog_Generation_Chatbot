@@ -36,7 +36,7 @@ with col1:
     no_words=st.text_input('No of Words')
 with col2:
     blog_style=st.selectbox('Writing the blog for',
-                            ('Researchers','Data Scientist','Common People'),index=0)
+                            ('Researchers','Data Scientist','Developer','Content Creation','Common People'),index=0)
     
 submit=st.button("Generate")
 
