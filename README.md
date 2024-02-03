@@ -10,8 +10,10 @@ Streamlit
 
 # To run the chatbot:
 Install requirement by:
+
 pip install -r requirements.txt
 
 run app.py by:
+
 streamlit run app.py
 
